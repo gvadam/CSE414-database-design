@@ -1,0 +1,10 @@
+hw4-theory.txt
+
+1. All subsets of {A,B,C,D} are closed.
+{A -> A, B -> B, C -> C, D -> D}
+
+2. The only closed subsets of {A,B,C,D} are {} and {A,B,C,D}.
+{A -> B, B -> C, C -> D, D -> A}
+
+3. The only closed subsets of {A,B,C,D} are {}, {B,C}, and {A,B,C,D}.
+{B -> C, C -> B, A -> D, D -> B}
